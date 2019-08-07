@@ -107,4 +107,6 @@ data/
 *.swp
 Capstone Project Template.ipynb
 
+.DS_Store
+
 
